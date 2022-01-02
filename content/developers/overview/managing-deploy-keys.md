@@ -1,3 +1,4 @@
+[BoostLicense.txt](https://github.com/github/docs/files/7798658/BoostLicense.txt)
 ---
 title: Managing deploy keys
 intro: Learn different ways to manage SSH keys on your servers when you automate deployment scripts and which way is best for you.
